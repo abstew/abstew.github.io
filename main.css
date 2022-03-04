@@ -9,13 +9,6 @@ html, body {
     position: relative;
 }
 
-.logo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding: 25px;
-}
-
 .link {
     display: inline-block;
     padding: 20px 0;
